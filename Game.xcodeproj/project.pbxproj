@@ -33,6 +33,7 @@
 		8407089A2ACC461C00093D89 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		840916F92AF1476900E7EF87 /* WordSell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSell.swift; sourceTree = "<group>"; };
 		843F73F32B03BDBD00B5354C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		84CCD7342B03CEA2003ADB74 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +89,7 @@
 				840195212ACD9398000D2BE5 /* ViewModel */,
 				8407088B2AC596E600093D89 /* Assets.xcassets */,
 				8407088D2AC596E600093D89 /* Preview Content */,
+				84CCD7342B03CEA2003ADB74 /* README.md */,
 			);
 			path = Game;
 			sourceTree = "<group>";
