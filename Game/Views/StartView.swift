@@ -20,7 +20,7 @@ struct StartView: View {
         
         VStack(alignment: .center) {
             
-            _TitleText(text: "Words Game")
+            _TitleText(text: "Гра Слів")
             
             WordsTexxtField(word: $bigWord, placeholder: "Введіть слово...", color: Color ("seaColor"))
                 .font(.title3)
