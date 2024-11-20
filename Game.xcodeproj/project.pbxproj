@@ -32,6 +32,14 @@
 		840708982ACC404800093D89 /* WordsTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsTextField.swift; sourceTree = "<group>"; };
 		8407089A2ACC461C00093D89 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		840916F92AF1476900E7EF87 /* WordSell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSell.swift; sourceTree = "<group>"; };
+		842F2F182CEDF89D007E02ED /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		842F2F192CEDF8FC007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png"; sourceTree = "<group>"; };
+		842F2F1A2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png"; sourceTree = "<group>"; };
+		842F2F1B2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png"; sourceTree = "<group>"; };
+		842F2F1C2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png"; sourceTree = "<group>"; };
+		842F2F1D2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png"; sourceTree = "<group>"; };
+		842F2F1E2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png"; sourceTree = "<group>"; };
+		842F2F1F2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png"; sourceTree = "<group>"; };
 		843F73F32B03BDBD00B5354C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		84CCD7342B03CEA2003ADB74 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +74,7 @@
 		8407087B2AC596E400093D89 = {
 			isa = PBXGroup;
 			children = (
+				842F2F172CEDF85F007E02ED /* docs */,
 				843F73F32B03BDBD00B5354C /* .gitignore */,
 				840708862AC596E400093D89 /* Game */,
 				840708852AC596E400093D89 /* Products */,
@@ -120,6 +129,21 @@
 				840708952ACC3D1500093D89 /* Components */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		842F2F172CEDF85F007E02ED /* docs */ = {
+			isa = PBXGroup;
+			children = (
+				842F2F1D2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png */,
+				842F2F1F2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png */,
+				842F2F192CEDF8FC007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png */,
+				842F2F1E2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png */,
+				842F2F1B2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png */,
+				842F2F1A2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png */,
+				842F2F1C2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png */,
+				842F2F182CEDF89D007E02ED /* README.md */,
+			);
+			path = docs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -326,6 +350,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Game/Preview Content\"";
@@ -358,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Game/Preview Content\"";
