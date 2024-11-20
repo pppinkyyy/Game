@@ -33,11 +33,11 @@
 		8407089A2ACC461C00093D89 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		840916F92AF1476900E7EF87 /* WordSell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSell.swift; sourceTree = "<group>"; };
 		842F2F182CEDF89D007E02ED /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		842F2F192CEDF8FC007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png"; sourceTree = "<group>"; };
-		842F2F1A2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png"; sourceTree = "<group>"; };
+		842F2F192CEDF8FC007E02ED /* screen2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen2.png; sourceTree = "<group>"; };
+		842F2F1A2CEDF8FD007E02ED /* screen3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen3.png; sourceTree = "<group>"; };
 		842F2F1B2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png"; sourceTree = "<group>"; };
 		842F2F1C2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png"; sourceTree = "<group>"; };
-		842F2F1D2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png"; sourceTree = "<group>"; };
+		842F2F1D2CEDF8FD007E02ED /* screen1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen1.png; sourceTree = "<group>"; };
 		842F2F1E2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png"; sourceTree = "<group>"; };
 		842F2F1F2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png"; sourceTree = "<group>"; };
 		843F73F32B03BDBD00B5354C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
@@ -134,12 +134,12 @@
 		842F2F172CEDF85F007E02ED /* docs */ = {
 			isa = PBXGroup;
 			children = (
-				842F2F1D2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.51.43.png */,
+				842F2F1D2CEDF8FD007E02ED /* screen1.png */,
 				842F2F1F2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.18.png */,
-				842F2F192CEDF8FC007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.52.30.png */,
+				842F2F192CEDF8FC007E02ED /* screen2.png */,
 				842F2F1E2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.31.png */,
 				842F2F1B2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.53.49.png */,
-				842F2F1A2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.54.13.png */,
+				842F2F1A2CEDF8FD007E02ED /* screen3.png */,
 				842F2F1C2CEDF8FD007E02ED /* Simulator Screenshot - iPhone 15 - 2024-11-20 at 12.55.01.png */,
 				842F2F182CEDF89D007E02ED /* README.md */,
 			);
